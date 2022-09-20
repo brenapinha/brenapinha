@@ -1,11 +1,6 @@
 # sobre mim
 - 👋 olá, meu nome é @brenapinha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :+1: meu email de contato é brenda.rafael@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas liguas 
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem do JavaSripth e Scratch
 
-<!---
-brenapinha/brenapinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
